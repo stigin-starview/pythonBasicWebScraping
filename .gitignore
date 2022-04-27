@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# fiels that are used for learning pourpose 
+learning.ipynb
